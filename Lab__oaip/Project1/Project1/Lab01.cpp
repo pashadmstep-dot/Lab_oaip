@@ -1,6 +1,6 @@
 #include <iostream>
  int main() {
-	setlocale(LC_ALL, "RU");
+	setlocale(LC_ALL, "ru_RU.UTF-8");
 	double start, end, step;
 	std::cout << "Введите начальное значение x: ";
 	std::cin >> start; // Задаем исходное значение переменной
